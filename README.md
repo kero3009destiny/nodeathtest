@@ -1,0 +1,2 @@
+# nodeathtest
+no death
